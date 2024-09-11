@@ -4,4 +4,4 @@ Dentro de la carpeta src/main se encuentra dos carpetas:
 
 <>sources/META-INF: donde se encuentra el persistence.xml (archivo con el cual establecemos la conexion con h2)
 
-Otro archivo importante es el build.gradle que es el archivo donde tenemos configurado las dependencias de lombock, dependencia de Envers, base de datos H2 para desarrollo del proyecto entre otras cosas más
+Otro archivo importante es el build.gradle que es el archivo donde tenemos configurado las dependencias de lombock, dependencia de Envers, base de datos H2 para desarrollo del proyecto entre otras cosas más.
